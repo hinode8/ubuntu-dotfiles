@@ -1,0 +1,13 @@
+
+alias op="xdg-open"
+
+### git aliases
+alias gs="git status"
+alias gl="git log"
+alias gl1="git lg1"
+alias gl2="git lg2"
+alias gcom="git checkout master"
+alias gaa="git add ."
+alias gc="git commit -m"
+alias gp="git push"
+alias nah="git reset --hard && git clean -df"
