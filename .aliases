@@ -1,6 +1,8 @@
 
 alias op="xdg-open"
 
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
 ### git aliases
 alias gs="git status"
 alias gl="git log"

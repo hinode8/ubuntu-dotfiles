@@ -1,0 +1,3 @@
+inoremap <C-j> <ESC>
+vnoremap <C-j> <ESC>
+nnoremap <CR> o<ESC>k
